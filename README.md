@@ -15,9 +15,7 @@ All humand beeings can be classified into 4 groups:
 
 ## Software Blood Types
 
-Using the Humand Blood Types as
-By taking the idea of 
-When taking this "blood type" analogy and applying it to software we can also come up with 4 groups:
+Similar to human "blood types", software can also be categoriezed into 4 groups with different properties:
 
 * group A: business code
 * group B: technology code
