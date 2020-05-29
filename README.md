@@ -1,4 +1,4 @@
-# software-blood-types
+# Software Blood Types
 
 ## Human Blood Types
 
