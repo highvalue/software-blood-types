@@ -17,7 +17,7 @@ Siedersleben hat in Quasar die langjährigen Erfahrungen bei sd&m im Design betr
 (anläßlich der Verleihung des Software-Engineering-Preis 2005)
 
 * [Computer Woche](img/Meldung.pdf)
-* [Preistraeger-Ernst-Denert Se-Preis.pdf](Preistraeger-Ernst-Denert Se-Preis.pdf)
+* [Preistraeger-Ernst-Denert Se-Preis.pdf](img/Preistraeger-Ernst-Denert Se-Preis.pdf)
 
 
 # Source
