@@ -34,4 +34,5 @@ Zur Person:
 Präsentationen:
 * https://de.slideshare.net/JensHimmelreich/softwarehygiene
 * [Architektur-Quasar.pdf](img/Architektur-Quasar.pdf)
+* [Quasar-Broschuere.pdf](img/Quasar-Broschuere.pdf)
 
