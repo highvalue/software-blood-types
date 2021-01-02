@@ -18,9 +18,9 @@ All humand beeings can be classified into 4 groups:
 Similar to human "blood types", software can also be categoriezed into 4 groups with different properties:
 
 * group A: business code
-* group B: technology code
-* group AB: business and technology mixed
-* group 0: neutral code
+* group B: technology code (retail code)
+* group AB: business and technology mixed (tailored code)
+* group 0: neutral code (universal)
 
 ![](img/bloodtypes-software.png)
 
