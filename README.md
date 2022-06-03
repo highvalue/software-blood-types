@@ -18,7 +18,7 @@ All humand beeings can be classified into 4 groups:
 Similar to human "blood types", software can also be categoriezed into 4 groups with different properties:
 
 * group A: business code
-* group B: technology code (retail code, commodity - comparable, available)
+* group B: technology code (retail code, commodity - comparable, available, common, off the shelves)
 * group AB: business and technology mixed (tailored code, custom code)
 * group 0: neutral code (universal)
 
