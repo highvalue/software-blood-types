@@ -1,6 +1,6 @@
 # Software Blood Types
 
-## Human blood types, which are split into 4 categories:
+## Human blood types are split into 4 categories:
 
 ![](img/human-blood-types.png)
 
